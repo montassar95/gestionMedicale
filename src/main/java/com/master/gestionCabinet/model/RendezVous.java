@@ -22,7 +22,7 @@ public class RendezVous {
     private Patient patient;
 
     private LocalDate jour;  // Attribut pour la date du rendez-vous
-    private LocalTime heure; // Attribut pour l'heure du rendez-vous
+    private LocalTime heure; // Attribut pour l'heure du rendez-vous (hh:mm)
 
     // Constructeur par défaut
     public RendezVous() {
